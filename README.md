@@ -5,7 +5,7 @@
 ---
 
 🎯 **Backend Developer** | Java • Python • Spring Boot • Microservices  
-📍 Germany
+📍 Germany  
 🔗 [LinkedIn](https://www.linkedin.com/in/yevhenii-ashurov/)
 
 ### 🔧 Tech Stack

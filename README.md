@@ -34,9 +34,7 @@ Backend developer with 4+ years of experience designing and building scalable mi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight)
 
 ### 💌 Contact
-📧 [evgenesis.od@gmail.com](mailto:evgenesis.od@gmail.com)  
-🐙 [GitHub Yevgenesis](https://github.com/Yevgenesis)  
-💼 [LinkedIn Yevhenii Ashurov](https://www.linkedin.com/in/yevhenii-ashurov/)
+💼 [LinkedIn Yevhenii Saimov](https://www.linkedin.com/in/yevhenii-ashurov/)
 
 ### 📍 Planned Projects
 - 📦 **Microservices Platform**: multiple services (User, Task, Feedback) communicating via API Gateway  

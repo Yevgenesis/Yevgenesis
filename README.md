@@ -31,7 +31,7 @@ Backend developer with 4+ years of experience designing and building scalable mi
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevgenesis&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight)
+
 
 ### 💌 Contact
 💼 [LinkedIn Yevhenii Saimov](https://www.linkedin.com/in/yevhenii-ashurov/)

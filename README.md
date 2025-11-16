@@ -33,10 +33,3 @@ Backend developer with 4+ years of experience designing and building scalable mi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevgenesis&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight&cache_seconds=0)
 
-
-### 📍 Planned Projects
-- 📦 **Microservices Platform**: multiple services (User, Task, Feedback) communicating via API Gateway  
-- 🐳 **Docker & Docker Compose**: containerized development & testing environment  
-- ☁️ **Cloud Deployment**: Kubernetes or AWS/GCP/Azure  
-- ✅ **CI/CD Pipeline**: automated builds & tests with GitHub Actions  
-- 📊 **Monitoring & Logging**: integration with Prometheus + Grafana

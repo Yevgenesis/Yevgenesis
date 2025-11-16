@@ -34,9 +34,6 @@ Backend developer with 4+ years of experience designing and building scalable mi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight&cache_seconds=0)
 
 
-### 💌 Contact
-💼 [LinkedIn Yevhenii Saimov](https://www.linkedin.com/in/yevhenii-ashurov/)
-
 ### 📍 Planned Projects
 - 📦 **Microservices Platform**: multiple services (User, Task, Feedback) communicating via API Gateway  
 - 🐳 **Docker & Docker Compose**: containerized development & testing environment  

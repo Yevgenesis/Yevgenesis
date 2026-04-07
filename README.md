@@ -30,6 +30,6 @@
 Backend developer with 4+ years of experience designing and building scalable microservices systems. Strong experience in Agile/Scrum: sprint planning, daily stand-ups, retrospectives, and collaborative code reviews. Passionate about clean, maintainable code and innovative solutions.  
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevgenesis&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight&cache_seconds=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevgenesis&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevgenesis&layout=compact&theme=tokyonight&cache_seconds=1800)
 
